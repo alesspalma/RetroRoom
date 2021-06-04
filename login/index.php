@@ -21,7 +21,7 @@
         <script type="text/javascript" src="assets/bootstrap/js/bootstrap.min.js"></script>
         <!-- stylesheets -->
         <link rel="stylesheet" type="text/css" href="../assets/css/baseStyle.css"/>
-        <link rel="stylesheet" type="text/css" href="style.css"/>
+        <link rel="stylesheet" type="text/css" href="login.css"/>
         <link rel="stylesheet" type="text/css" href="../assets/css/buttons.css">
     </head>
     <body>
