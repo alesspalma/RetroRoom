@@ -1,0 +1,11 @@
+/* nascondo le immagini dell'html */
+img {
+    display: none;
+}
+
+/* media query per schermi >= 992px */
+@media screen and (min-width: 992px) {
+    canvas { 
+        width: 58vw !important;
+    }
+}
