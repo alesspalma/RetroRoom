@@ -1,7 +1,7 @@
 <?php
     if (isset($_SESSION["username"])) {
-        echo "
         // tasto che punta alla pagina del profilo
+        echo "
         <div class='col-md-2 pb-2'>
             <a href='../profile/index.php' class='btn btn-lg'>
                 <span class='fas fa-user'></span>
