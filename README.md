@@ -1,3 +1,4 @@
 # RetroRoom
-Progetto per il corso di "Linguaggi e Tecnologie per il Web", a.a. 2020-2021.
+Little web platform that offers 4 retro game, coded from zero.
+
 ![alt Homepage RetroRoom](/screen_homepage.png "Homepage RetroRoom")
